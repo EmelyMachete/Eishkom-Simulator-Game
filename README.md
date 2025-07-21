@@ -25,7 +25,7 @@ An educational simulation game built using Scratch, designed to illustrate South
 
 ## 📄 Files Included
 
-<p>📄 File Included: <a href="https://github.com/EmelyMachete/eishkom-simulator/blob/main/eishcom-system_overview.pdf" target="_blank">eishcom-system_overview.pdf</a></p>
+<p>📄 File Included: <a href="https://github.com/EmelyMachete/eishkom-simulator-game/blob/main/eishcom-system_overview.pdf" target="_blank">eishcom-system_overview.pdf</a></p>
 
 ---
 
