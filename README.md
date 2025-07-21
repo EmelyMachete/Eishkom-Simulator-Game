@@ -1,6 +1,6 @@
 # 🔋 Eishkom Simulator Game – Load Shedding Awareness
 
-An educational simulation game built using Scratch, designed to illustrate South Africa's load shedding challenges through interactive gameplay. Users must manage grid balance, redirect supply, and respond to outages across progressive levels — combining strategy and energy awareness.
+An educational simulation game built using Scratch, designed to illustrate South Africa's load shedding challenges through interactive gameplay. Users must manage grid balance, redirect supply, and respond to outages across progressive levels, combining strategy and energy awareness.
 
 ---
 
