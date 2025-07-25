@@ -38,22 +38,7 @@ An educational simulation game built using Scratch, designed to illustrate South
 
 ---
 
-## 👥 Team Contributors
 
-This project was completed collaboratively as part of a group assignment. Huge thanks to:
-
-- E.M Adlam  
-- C.S Tsetsa  
-- E.M Machete  
-- K. Thobejane  
-- O. Khechane  
-- T.B Mlambo  
-- J.J Tsolo  
-- D.L Zame  
-- M.S Hikwane  
-- C.T Waite  
-
----
 
 ## 🙋🏽‍♀️ Author
 
